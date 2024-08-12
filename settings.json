@@ -1,0 +1,64 @@
+{
+  "workbench.colorTheme": "Min Dark",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "C_Cpp.default.compilerPath": "",
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "symbols",
+  "editor.formatOnSave": true,
+  "symbols.hidesExplorerArrows": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 15,
+  "workbench.statusBar.visible": false,
+  "window.titleBarStyle": "custom",
+  "workbench.activityBar.location": "hidden",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset"
+  },
+  "workbench.layoutControl.enabled": false,
+  "apc.header": {
+    "height": 36
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".title-label  > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".pane-body": "padding: 8px",
+    ".pane-header": "padding: 0 8px"
+  },
+  "window.commandCenter": false,
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "TODO",
+      "color": "white",
+      "backgroundColor": "#3498db"
+    },
+    {
+      "text": "BUG",
+      "color": "white",
+      "backgroundColor": "#e74c3c"
+    },
+    {
+      "text": "FIXME",
+      "color": "white",
+      "backgroundColor": "#2ecc71"
+    }
+  ]
+}
